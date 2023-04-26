@@ -14,8 +14,3 @@ A commercial web app offers a seamless and user-friendly shopping experience wit
 - [Products](http://localhost:8888/.netlify/functions/products)
 - [Single Product](http://localhost:8888/.netlify/functions/single-product)
 
-#### Install Airtable-Node
-- already installed in main repo
-```sh
-npm i airtable-node
-```
