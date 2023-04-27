@@ -1,6 +1,11 @@
 ## [E-commercial App](https://e-commercial-app-two.vercel.app/)
 A commercial web app offers a seamless and user-friendly shopping experience with several features such as add to cart, selection, and stock checking functions. Backend API to retrieve data about products, including their availability and pricing information are intergrated. The app also features authentication and authorization to ensure secure transactions and is built following the guidance by John Smilga.
 
+## How to start
+- download the repo
+- npm install
+- npm start
+
 #### Colors
 - get shades from tailwind.css
 
